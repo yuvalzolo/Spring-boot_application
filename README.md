@@ -1,5 +1,4 @@
 # Spring-boot_application
-spring-boot application with a REST controller, which expose a Swagger API catalog
 spring-boot application which provides a stock of items and allows the user to perform different actions on the stock. 
 implemented in java 
 docker hub: https://hub.docker.com/repository/registry-1.docker.io/yuvalzolo/openlegacy/tags?page=1
